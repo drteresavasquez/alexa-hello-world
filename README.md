@@ -13,6 +13,6 @@ bundle install
 ```
 ## Create a Skill for Alexa
 
-- Visit (Alexa Skill Builder)[https://developer.amazon.com/]
-- (View Tutorial)[https://www.youtube.com/watch?v=jQ_gwxmcRKU]
+- Visit [Alexa Skill Builder](https://developer.amazon.com/)
+- [View Tutorial](https://www.youtube.com/watch?v=jQ_gwxmcRKU)
 
